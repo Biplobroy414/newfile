@@ -1,0 +1,19 @@
+img{
+    max-width: 100%;
+}
+.img-png {
+    width: 200px;
+    height: 83px;
+    margin-left: -24px;  
+}
+.form a{
+    text-decoration: none;
+}
+.margin {
+    margin-left: 200px;
+    display: inline-block;
+    background: #1a73e8;
+    color: white;
+    padding: 3px 20px;
+    border-radius: 5px;
+}
